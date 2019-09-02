@@ -1,0 +1,2 @@
+# grupo_construccion
+GRUPO DE CONSTRUCCION DE SOFTWARE I
